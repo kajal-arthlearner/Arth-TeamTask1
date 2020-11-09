@@ -16,14 +16,14 @@ while True:
 		
 		
 		if opt == '1':
-			os.system('')
+			os.system('python3 AWS & Hadoop configuration.py')
 			
 		elif opt == '2':
-    	os.system('')
+    	                os.system('python3 lvm.py')
 			
 			
 		elif opt == '3':
-			os.system('')	
+			os.system('python3 docker.py')	
 				
 		elif opt == '0':
 			exit()
