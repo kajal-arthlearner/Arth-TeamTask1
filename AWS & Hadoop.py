@@ -60,7 +60,7 @@ Press 3 : For Exit""")
           os.system("hadoop dfsadmin -report")
         elif hadoopch == 5:
           exit()
-  elif ch == 5:
+  elif ch == 3:
     exit()
   else:
     print("Wrong Input")
