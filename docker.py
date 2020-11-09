@@ -1,6 +1,6 @@
 from os import system
 
-def menu():
+def docker_menu():
 	# Docker docker_menu loop
 	while True:
 		system("clear")
